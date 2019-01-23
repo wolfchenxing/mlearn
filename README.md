@@ -10,3 +10,7 @@
 ## KNN
 - 基于IRIS(鸢尾花)数据集使用sklearn分类
 - KnnImplementation（KNN的Python实现）
+
+## SVM
+- 线性可区分，pylab绘制超平面及样本点
+- 线性不可区分，基于sklearn人脸识别实例（RBF核函数）
