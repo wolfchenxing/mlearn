@@ -14,3 +14,12 @@
 ## SVM
 - 线性可区分，pylab绘制超平面及样本点
 - 线性不可区分，基于sklearn人脸识别实例（RBF核函数）
+
+## NeuralNetwork
+- 手写BackPropagation神经网络算法
+- 简单非线性关系（异或）数据集测试
+- 基于sklearn手写数字识别
+
+## Regression
+- 手写简单线性回归算法
+- 基于sklearn多元线性回归实例
